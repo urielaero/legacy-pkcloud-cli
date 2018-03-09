@@ -1,0 +1,5 @@
+*.sh
+logos
+otros
+node_modules
+*.txt
